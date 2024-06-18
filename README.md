@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about html, css , javascript and  novel writing
 - 📫 How to reach me: roshanisharmachitwan@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love reading and writing novels, and I have finished two manuscripts!
+- ⚡ Fun fact: I love reading and writing novels, 
 
 ## About Me
 
