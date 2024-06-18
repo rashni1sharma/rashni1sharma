@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on an blockchain-based voting system
+- 🔭 I’m currently working on the php larvel
 - 🌱 I’m currently learning advanced JavaScript and React
 - 👯 I’m looking to collaborate on web development projects and open-source contributions
 - 🤔 I’m looking for help with implementing open course projects
